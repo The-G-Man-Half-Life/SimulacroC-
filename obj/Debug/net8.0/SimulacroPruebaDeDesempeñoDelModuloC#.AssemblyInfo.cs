@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimulacroPruebaDeDesempeñoDelModuloC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b5c7fb5f1f28adc7bde4d63520ec854872c931")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimulacroPruebaDeDesempeñoDelModuloC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimulacroPruebaDeDesempeñoDelModuloC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
